@@ -56,14 +56,14 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
+    "Phir bike pe chalengi?",
+    "Wait! What if I promise to drive really slow on the bike this time? Still no?",
+    "Just think about Mumbai airport plan Prazz",
     "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Final offer: Say yes, and we can make Pune a feeling all over again",
+    "Last try: I’m not looking for a Bollywood ending, just a genuine 'Yes'. Pretty please?",
+    "I wrote 5 pages with bad handwriting for this?",
+    "Okay, I’m out of lines... but I’m not out of feelings,say yes please! ❤️"
 ];
 
 let messageIndex = 0;
